@@ -1,0 +1,1 @@
+<?php $nama='Yogi'; echo $nama; ?>
